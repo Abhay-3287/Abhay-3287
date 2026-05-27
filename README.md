@@ -5,13 +5,13 @@
 ###
 
 <div align="center">
-  <a href="anand229202@gmail.com" target="_blank">
+  <a href="abhayshankermanas31@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
   </a>
-  <a href="hackerrank.com/profile/anand229202" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=HackerRank&logo=hackerrank&label=&color=2EC866&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="hackerrank logo"  />
+  <a href="https://leetcode.com/u/Abhay--02/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LeetCode&logo=leetcode&label=&color=FFA116&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="leetcode logo" />
   </a>
-  <a href="www.linkedin.com/in/anand-patel17" target="_blank">
+  <a href="www.linkedin.com/in/abhay-shanker-manas" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
   </a>
 </div>
@@ -19,12 +19,12 @@
 ###
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=anandpatel9044.anandpatel9044&"  />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Abhay-328.Abhay-328&"  />
 </div>
 
 ###
 
-<h1 align="center">hey there 👋</h1>
+<h1 align="center">Hey there 👋</h1>
 
 ###
 
@@ -32,7 +32,15 @@
 
 ###
 
-<p align="left">I'm ... from ....<br><br>I'm Anand Patel from India<br><br>🔭 I’m working on data analytics projects using Excel, MySQL, Power BI, Python, and Tableau<br>📚 I'm currently learning advanced SQL, Python libraries, and data visualization techniques<br>⚡ In my free time I build dashboards, explore datasets, and improve my problem-solving skills</p>
+<p align="left">
+Hi 👋, I'm Abhay from India 🇮🇳<br><br>
+
+🔭 I’m working on Data Analytics projects using Excel, MySQL, Power BI, Python, and Tableau<br>
+
+📚 I’m currently learning Advanced SQL, Python libraries, and Data Visualization techniques<br>
+
+⚡ In my free time, I build dashboards, explore datasets, and improve my problem-solving skills
+</p>
 
 ###
 
